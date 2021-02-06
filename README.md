@@ -22,3 +22,10 @@ sno | Name | college
 2   | gopi    | sacet
 
 :smile:
+
+how to initialize github project
+
+- [] git add
+- [x] git init
+- [] git remote
+- [] git branch
