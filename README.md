@@ -43,3 +43,14 @@ def add(a,b):
 add(3,4)   
 ~~~~~~~~~~~
 
+# MCQ
+<HR>
+   
+~~~~~~~~~~C
+# include<stdio.h>
+# include<stdio.h>
+void main()
+{
+print("hello world");
+}
+~~~~~~~~~~~~
