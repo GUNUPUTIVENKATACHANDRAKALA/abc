@@ -20,6 +20,8 @@ sno | Name | college
 ----|------|--------
 1   | srinivas| sacet
 2   | gopi    | sacet
+
+
 :laughing:
 :satisfied:	
 :sweat_smile:
@@ -40,3 +42,4 @@ def add(a,b):
    print("the addition of a and b is:")
 add(3,4)   
 ~~~~~~~~~~~
+
